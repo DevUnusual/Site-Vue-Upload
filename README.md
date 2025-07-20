@@ -44,7 +44,7 @@ Primeiro, vamos iniciar o servidor que irá receber os arquivos.
 
 ```bash
 # 1. Clone o repositório (se ainda não o fez)
-git clone [<URL_DO_REPOSITORIO>](https://github.com/DevUnusual/Site-Vue-Upload)
+git clone https://github.com/DevUnusual/Site-Vue-Upload
 
 # 2. Navegue para a pasta do projeto
 cd site-vue-upload
